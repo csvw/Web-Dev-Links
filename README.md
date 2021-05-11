@@ -25,5 +25,8 @@ https://github.com/csvw/nyt_mockup
 Reddit Mockup - React:
 https://github.com/csvw/reddit_mockup
 
-Book Explorer - React + Django:
-https://github.com/csvw/nlp-interface
+Author Website - React + Django:
+https://www.robertvanwagoner.com
+
+
+
