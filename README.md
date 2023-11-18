@@ -1,5 +1,5 @@
 # Web-Dev-Links
-A collection of links to some of my early experiments in web development.
+Some of my early experiments in web development.
 
 Odin Project Two - Google and Tumblr Mockups:
 https://github.com/csvw/odin-project-two
